@@ -1,0 +1,78 @@
+@media only screen and (max-width:320px){
+   
+    .banner h1{
+    font-size: 40px;
+    margin-left: 0;  
+
+    }
+    #about .display-3{
+        font-size: 30px;
+    }
+
+    #contact{
+        margin: 0rem;
+        padding: 0rem;
+    }
+    #contact .form{
+        margin-top: 4rem;
+    }
+    #contact h2{
+        font-size: 20px;
+    } 
+
+    #reviews{
+        margin: 1rem;
+        border: tomato 1px solid;
+    }
+
+}
+@media only screen and (max-width:375px){
+    .banner h1{
+   font-size: 45px;
+
+    }
+    #about .display-3{
+        font-size: 30px;
+    }
+
+    
+    #contact .form{
+        margin-top: 4rem;
+    }
+    #contact h2{
+        font-size: 20px;
+    } 
+
+    #reviews{
+        margin: 1rem;
+        border: tomato 1px solid;
+    }
+    #contact h2{
+        color:Wwhite;
+    }       
+}
+@media only screen and (max-width: 425px){
+      .banner h1{
+   font-size: 55px;
+
+    }
+     #about .display-3{
+        font-size: 30px;
+    }
+
+    
+    #contact .form{
+        margin-top: 4rem;
+    }
+    #contact h2{
+        font-size: 20px;
+    } 
+
+    #reviews{
+        margin: 1rem;
+        border: tomato 1px solid;
+    }
+    #contact h2{
+        color:Wwhite;
+    } 
+}
